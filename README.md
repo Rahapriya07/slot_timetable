@@ -28,13 +28,15 @@ Execute the program using runserver command.
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Weekly Timetable</title>
+  <title>SLOT TIMETABLE</title>
 </head>
 <body>
     <center>
-         <img src="/static/logo.png" height="100" width="540">
+         <img src="logo.png" height="100" width="500">
     </center>
-  <h2>Weekly Timetable</h2>
+  
+  <h2>SLOT TIMETABLE -RAHA PRIYA (212224240124)</h2>
+  
   <table border="1" cellpadding="8" cellspacing="0">
     <tr>
       <th>Day / Time</th>
@@ -86,13 +88,62 @@ Execute the program using runserver command.
       <td>FREE</td>
     </tr>
   </table>
+  <br>
+<table align="center" cellspacing="2" cellpadding="2" border="2">
+<tr align="center">
+<th>S. No.</th>
+<th>Subject Code</th>
+<th>Subject Name</th>
+</tr>
+<tr>
+<td align="center">1.</td>
+<td align="center">19AI414</td>
+<td>Fundamentals of Web Application Development (FWAD)</td>
+</tr>
+<tr>
+<td align="center">2.</td>
+<td align="center">19AI305</td>
+<td>Advance C Programming</td>
+</tr>
+<tr>
+<td align="center">3.</td>
+<td align="center">19CS406</td>
+<td>Computer Networks</td>
+</tr>
+<tr>
+<td align="center">4.</td>
+<td align="center">19CS408</td>
+<td>Software Engineering</td>
+</tr>
+<tr>
+<td align="center">5.</td>
+<td align="center">19EY710</td>
+<td>Quantitative Ability-1</td>
+</tr>
+<tr>
+<td align="center">6.</td>
+<td align="center">19MA211</td>
+<td>Statistics and numerical methods</td>
+</tr>
+<tr>
+<td align="center">7.</td>
+<td align="center">19MS155</td>
+<td>Stock market and company operations</td>
+</tr>
+<tr>
+<td align="center">8.</td>
+<td align="center">19HS801</td>
+<td>Human values and professional ethics</td>
+</tr>
+</table>
 </body>
 </html>
+
 ```
 
 
 ## OUTPUT
-![alt text](<Screenshot (184)-1.png>)
+![alt text](<Screenshot (186).png>)
 
 
 ## RESULT
